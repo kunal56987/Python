@@ -34,6 +34,8 @@ print(type(t)) #<class 'tuple'>
 
 # 3.tuple comprehension:
 
+# Actule Tuple comprehension is not possible
+
 t=(i for i in range(10))
 print(t) #<generator object <genexpr> at 0x000001C951D407B0>
 
