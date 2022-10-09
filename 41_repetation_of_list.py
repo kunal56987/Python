@@ -12,6 +12,6 @@ l=[10, 20, 30, 40, 50]
 
 # if we do l*l then it also gives type error
 
-l=[10, 20, 30, 40, 50]
-r=l*l
-print(r)
+# l=[10, 20, 30, 40, 50]
+# r=l*l
+# print(r)
