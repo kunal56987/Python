@@ -29,13 +29,16 @@ print(type(t)) #<class 'tuple'>
 
 # 5.creation of tuple using tuple() function:
 
+# Ex-1
 l=[10,20,30,40]
 t=tuple(l) # it convert list to tuple
 print(t) #(10, 20, 30, 40)
 print(l) #[10,20,30,40]
 
+# Ex-2
 t=tuple(range(10)) #it will genrate tuple from 0-9
 print(t) #(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
+# Ex-3
 t=tuple('kunal')
-print(t)
+print(t) #('k', 'u', 'n', 'a', 'l')
