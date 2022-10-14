@@ -78,7 +78,6 @@ for i in l:
 
 # To reverse the list using function
 
-
 l=[10,20,30,[40,41,41],50,60,70]
 l.reverse() # It will not reverse the nested list
 print(l) # [70, 60, 50, [40, 41, 41], 30, 20, 10]

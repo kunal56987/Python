@@ -17,6 +17,6 @@ for i in range(10):
 
 for i in range(10):
     if i%2==0:
-        pass #if i%2=0 then it do nothing and pass to the next line or the loop
+        pass #when i%2=0 then it do nothing and pass to the next line or the loop
     else:
         print(i)

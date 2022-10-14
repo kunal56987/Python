@@ -44,16 +44,16 @@ s=sorted(t,reverse=True)
 print(s) #[9, 8, 6, 5, 4, 3, 2, 1]
 
 
-# 6.cmp() method
+# 6.cmp() method:
 
-#cmp() is used to compare tuple but in python 3 onwards it is outdated.
+# cmp() is used to compare tuple but in python 3 onwards it is outdated.
 # but it will work in python 2 
 
-t1=(10,11)
-t2=(10,1)
-t3=(10,1)
-print(cmp(t1,t2)) #1
-print(cmp(t2,t1)) #-1
-print(cmp(t2,t3)) #0
+# t1=(10,11)
+# t2=(10,1)
+# t3=(10,1)
+# print(cmp(t1,t2)) #1
+# print(cmp(t2,t1)) #-1
+# print(cmp(t2,t3)) #0
 
 # output of the above code when we run in python 2 version

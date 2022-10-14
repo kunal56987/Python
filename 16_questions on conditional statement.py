@@ -1,14 +1,14 @@
-# #wap to input 3 number and check which one is greatest among 3 using if-elif-else statement
-# a=int(input('Enter the first number:'))10
+#wap to input 3 number and check which one is greatest among 3 using if-elif-else statement
+a=int(input('Enter the first number:'))
 
-# b=int(input('Enter the secound number:'))
-# c=int(input('Enter the third no:'))
-# if(a>b and a>c):
-#     print(a,'is greater')
-# elif(b>a and b>c):
-#     print(b,'is greater')
-# else:
-#     print(c,'is greater')
+b=int(input('Enter the secound number:'))
+c=int(input('Enter the third no:'))
+if(a>b and a>c):
+    print(a,'is greater')
+elif(b>a and b>c):
+    print(b,'is greater')
+else:
+    print(c,'is greater')
 
 #wap to input 2 number and perform calculation based on user input like add sub mul div
 a=int(input('Enter first number:'))

@@ -14,7 +14,7 @@ for i in range(2,9,1):
     print(i)    
 
 #Ex-4
-# 200 400 600 1000
+# 200 400 600  800 1000
 for i in range(200,1001,200):
     print(i)    
 
