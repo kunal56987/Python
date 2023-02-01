@@ -1,6 +1,4 @@
 # tuple packing
-from re import T
-
 
 a=23
 b=33

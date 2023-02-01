@@ -1,8 +1,6 @@
 # 1.index() method:
 #it will return the index of first occurence of the given element
 
-from filecmp import cmp
-
 
 t=(23,33,43,53,63,23,43,33)
 print(t.index(43)) #2

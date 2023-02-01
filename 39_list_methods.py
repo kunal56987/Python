@@ -59,6 +59,8 @@ l=[10,20,30,40,50,60,]
 print(l)
 l.pop(2)
 print(l)
+l.pop()# it will delete the last one
+print(l)
 # l.pop(99) it gives index error bcz 99 index is not present insid the list
 
 

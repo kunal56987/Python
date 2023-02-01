@@ -11,4 +11,4 @@ for i in range(5):
     print(i)
 else:
     print('i am else block')
-# here else block can not be executed bcz for loop is not executed fully it will break at i=2
+# here else block can not be executed bcz for loop is not executed fully it will break at i=4

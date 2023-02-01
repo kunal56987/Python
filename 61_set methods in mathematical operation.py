@@ -1,8 +1,5 @@
 # 1.union() method:
 
-from __future__ import print_function
-
-
 A={13,43,612,42}
 B={40,51,13,26,42}
 print(A.union(B)) #{612, 40, 42, 43, 13, 51, 26}

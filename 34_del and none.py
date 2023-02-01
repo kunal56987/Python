@@ -8,14 +8,14 @@ print(a)
 #Ex-2
 x='kunal'
 print(x)
-# del s
-# print(s)
+# del x
+# print(x)
 
 #Ex-3
 x='kunal'
 print(x)
-# del s[0]
-# print(s) #can't delete
+# del x[0]
+# print(x) #can't delete
 
 #Ex-4
 l=[10,20,30,40,50]
